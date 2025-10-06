@@ -21,10 +21,9 @@ A community for data professionals, meaning data analysts/engineers/scientists, 
 
 ## Meetups
 
-We try to organize quarterly meetups. 
+We try to organize quarterly meetups. The best way to find out about future events is to join our [meetup.com group](https://www.meetup.com/pydata-tallinn/). You'll get an email when we schedule new events. 
 
-We are always looking for speakers. If you are interested in giving a future talk, workshop, or some other type of content, [submit at a proposal here](https://forms.gle/p67CDXR7pxzwRaa98).
-
+We are always looking for speakers. If you are interested in giving a future talk, workshop, or some other type of content, [submit at a proposal here](https://forms.gle/p67CDXR7pxzwRaa98) ([more info](faq#whats-the-format-for-talks)).
 
 ## Official Stuff
 

@@ -98,9 +98,10 @@ const config = {
         src: 'img/pydata-tallinn-removebg-preview.png',
       },
       items: [
-        // {to: '/blog', label: 'Blog', position: 'left'},
+        {to: 'faq', label: 'FAQ', position: 'left'},
       ],
     },
+
     footer: {
       style: 'dark',
       links: [
