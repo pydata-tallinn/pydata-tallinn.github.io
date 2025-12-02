@@ -15,4 +15,9 @@ Talks:
 
 
 
-[test slides](slides/Sander-Tars_Beyond-human-comprehension-XR.pdf)
+[test 1](slides/Sander-Tars_Beyond-human-comprehension-XR.pdf)
+
+[test 2](/slides/Sander-Tars_Beyond-human-comprehension-XR.pdf)
+
+[test 3](../static/slides/Sander-Tars_Beyond-human-comprehension-XR.pdf)
+
