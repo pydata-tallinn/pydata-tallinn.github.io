@@ -99,6 +99,7 @@ const config = {
       },
       items: [
         {to: 'faq', label: 'FAQ', position: 'left'},
+        {to: 'events', label: 'Past events', position: 'left'},
       ],
     },
 

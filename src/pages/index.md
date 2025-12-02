@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PyData Tallinn
-description: A community for data professionals, meaning data analysts/engineers/scientists, BI analysts, ML engineers, MLOps, etc. Regardless of the language or tools used.
+description: Data and models. No BS. 
 ---
 
 <center><img src="img/pydata-tallinn-removebg-preview.png" width="600"/></center>
@@ -21,9 +21,14 @@ A community for data professionals, meaning data analysts/engineers/scientists, 
 
 ## Meetups
 
-We try to organize quarterly meetups. The best way to find out about future events is to join our [meetup.com group](https://www.meetup.com/pydata-tallinn/). You'll get an email when we schedule new events. 
+We organize quarterly meetups. The best way to find out about future events is to join our [meetup.com group](https://www.meetup.com/pydata-tallinn/). You'll get an email when we schedule new events. 
 
 We are always looking for speakers. If you are interested in giving a future talk, workshop, or some other type of content, [submit at a proposal here](https://forms.gle/p67CDXR7pxzwRaa98) ([more info](faq#whats-the-format-for-talks)).
+
+## Sponsors
+
+- We're a volunteer effort and rely on sponsor to provide a venue, food and drink, and maybe a speaker or two. In return, you can introduce your company and show people why it's a good place to work at ☺️. 
+- The Meetup group is sponsored by NumFOCUS: Promoting open code for better science.
 
 ## Official Stuff
 
