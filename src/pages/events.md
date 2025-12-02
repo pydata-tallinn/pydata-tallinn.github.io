@@ -11,7 +11,7 @@ Sponsor: [Wise](wise.com)
 Talks:
 
 - [Beyond Human Perception - XR↗](/slides/Sander-Tars_Beyond-human-comprehension-XR.pdf), [Sander Tars](https://www.linkedin.com/in/sander-tars-396b17b7), Lead Data Scientist, MindTitan
-- [Graphs on big data: Why don't you use Neo4j?](/slides/Otto-von-Sperling_Graphs-on-big-data.pdf), [Otto von Sperling](https://www.linkedin.com/in/otto-von-sperling/), Staff Data Scientist, Wise (slides)
+- [Graphs on big data: Why don't you use Neo4j?](/slides/Otto-von-Sperling_Graphs-on-big-data.pdf), [Otto von Sperling](https://www.linkedin.com/in/otto-von-sperling/), Staff Data Scientist, Wise
 
 ## PyData @ PyCon Estonia (2025-10-02)
 
